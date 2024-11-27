@@ -1,0 +1,1 @@
+# simplauth-example-nextjs1
